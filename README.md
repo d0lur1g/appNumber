@@ -1,9 +1,11 @@
 ===========================================================
-| Application pédagogique sur la décomposition de nombres |
+Application pédagogique sur la décomposition de nombres
 ===========================================================
 
 Encadrant(s) : ?
+
 Partenaire : école maternelle Albert Camus
+
 Objectif : Créer une application android permettant aux
 enfants d’appréhender les concepts liés à la décomposition
 de nombres
