@@ -20,16 +20,16 @@ Méthodes / objectifs fonctionnels :
 
 	- Cahier des charges très détaillé
 
-	- Option : comparer la réponse vocale de l’enfant à la
-réponse attendue
+	- Option : comparer la réponse vocale de l’enfant à la réponse attendue
 
 =======================================================
-                 Membres de l'équipe
+Membres de l'équipe
 =======================================================
 Chef de projet : ??
 
-Camille Chusseau
 
-Laetitia Etcheverry
+	Camille Chusseau
 
-Ludovic Girard
+	Laetitia Etcheverry
+
+	Ludovic Girard
